@@ -1,0 +1,66 @@
+@media screen and (max-width: 834px){
+    /*------------CONTAINER--------------------*/
+    .container{
+        width: 734px;
+        margin: 0 auto;
+    }
+    /*------------HEADER----------------------*/
+    .header{
+        background-color: #F6F6F6;
+    }
+    /*------------ABOUT-----------------------*/
+    .about{
+        background-color: #F6F6F6;
+    }
+    .about__image{
+        display: none;
+    }
+    .about_title{
+        font-size: 42px;
+        line-height: 51px;
+    }
+    .about_text{
+        margin-top: 34px;
+    }
+    .about__button{
+        margin-top: 36px;
+    }
+    .about_title{
+        margin-top: 0;
+    }
+    .about{
+        padding-top: 85px;
+        padding-bottom: 72px;
+    }
+    /*------------projects---------------------*/
+    .projects{
+        display: none;
+    }
+    /*------------FOOTER-----------------------*/
+    .footer{
+        display: none;
+    }
+    .footer__contacts_items{
+        /*display: none;*/
+    }
+    .footer__menu_title{
+        display: none;
+    }
+    .footer__menu_nav{
+        display: none;
+    }
+    .mobile-footer{
+        display: block;
+    }
+    /*------------PARTNERS SLIDER------------------*/
+    .partners__slider_image{
+        display: none;
+    }
+    .partners__mobile-slider_image{
+        display: block;
+    }
+    /*------------PROJECT SLIDER--------------------*/
+    .project-mobile{
+        display: block;
+    }
+}
